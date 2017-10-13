@@ -1,0 +1,13 @@
+package com.todo.service;
+
+import com.todo.model.Task;
+
+public class LoginService {
+
+	public boolean isProper(Task task) {
+		
+		
+	}
+	}
+
+}

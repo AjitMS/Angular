@@ -1,0 +1,25 @@
+package com.todo.service;
+
+import java.sql.SQLException;
+
+import com.todo.dao.LoginDAO;
+import com.todo.model.Task;
+
+public class LoginService {
+
+	LoginDAO dao;
+
+	public boolean isProper(Task task) {
+		if (dao.isProper(task))
+			return true;
+		return false;
+
+	}
+
+	public boolean authenticateUser(String email, String password) throws ClassNotFoundException, SQLException {
+		if(dao.authenticateUser(email, password));
+		return true;
+		return false;
+		
+	}
+}

@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/bridgelabz3/ajit/projects/Eclipse Workspace/AngularJs/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1746715961.index

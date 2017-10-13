@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html ng-app="app">
+
+<head>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+
+</head>
+
+<body>
+  <div ng-controller="SampleController">
+    <table>
+      <thead>
+        <th>First Name</th>
+        <th>Last Name</th>
+      </thead>
+      <tbody>
+        <tr ng-repeat="person in people">
+          <td>{{person.first}}</td>
+          <td>{{person.last}}</td>
+        </tr>
+        <tr>
+          <td>
+            <input ng-model="addFirst" type="text" placeholder="Enter first name" />
+          </td>
+          <td>
+            <input ng-model="addLast" type="text" placeholder="Enter last name" />
+          </td>
+          <td>
+            <button ng-click="addPerson()">Submit</button>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+
+<script>
+angular.module("app", []).controller("SampleController", function SampleController($scope) {
+
+	alert('hello');
+	  $scope.people = [{
+	    id: 1,
+	    first: "Ajit",
+	    last: "Shikalgar"
+	  }, {
+	    id: 2,
+	    first: "Salman",
+	    last: "Khan"
+	  }, {
+	    id: 3,
+	    first: "Hello",
+	    last: "World"
+	  }];
+
+	  $scope.addPerson = function() {
+	    alert('hello');
+
+	    var newId = $scope.people.length;
+	    newId++;
+
+	    $scope.people.push({id: newId, first: $scope.addFirst, last: $scope.addLast});
+	  }
+	})
+
+
+</script>
+
+</html>

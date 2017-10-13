@@ -1,0 +1,15 @@
+package com.todo.service;
+
+import com.todo.dao.LoginDAO;
+import com.todo.model.Task;
+
+public class LoginService {
+
+	LoginDAO dao;
+
+	public boolean isProper(Task task) {
+		if (dao.isProper(task));
+		return true;
+
+	}
+}
