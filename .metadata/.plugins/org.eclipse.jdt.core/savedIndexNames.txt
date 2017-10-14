@@ -1,9 +1,2 @@
 INDEX VERSION 1.130+/home/bridgelabz3/ajit/projects/Eclipse Workspace/AngularJs/.metadata/.plugins/org.eclipse.jdt.core
-2776908470.index
 1746715961.index
-1728945423.index
-334061857.index
-4171386422.index
-2004548107.index
-3884335998.index
-922808827.index

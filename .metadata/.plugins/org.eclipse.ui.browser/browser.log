@@ -142,3 +142,47 @@ Oct 13, 2017 16:54:22.25 [20759:20798:1013/165422.250415:ERROR:browser_gpu_chann
 Oct 13, 2017 16:54:22.67 Created new window in existing browser session.
 Oct 13, 2017 16:57:06.09 [20999:21038:1013/165706.095948:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
 Oct 13, 2017 16:57:06.38 Created new window in existing browser session.
+Oct 13, 2017 17:19:51.33 [21797:21837:1013/171951.333706:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:19:51.72 Created new window in existing browser session.
+Oct 13, 2017 17:21:13.84 [21990:22029:1013/172113.848689:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:21:14.13 Created new window in existing browser session.
+Oct 13, 2017 17:21:24.09 [22087:22126:1013/172124.091858:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:21:24.27 Created new window in existing browser session.
+Oct 13, 2017 17:21:29.44 [8521:8521:1013/172129.443131:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+Oct 13, 2017 17:26:59.60 Created new window in existing browser session.
+Oct 13, 2017 17:31:24.17 Created new window in existing browser session.
+Oct 13, 2017 17:32:00.11 [22873:22912:1013/173200.115488:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:32:00.17 Created new window in existing browser session.
+Oct 13, 2017 17:33:36.20 [23083:23123:1013/173336.208807:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:33:36.66 Created new window in existing browser session.
+Oct 13, 2017 17:36:56.96 Created new window in existing browser session.
+Oct 13, 2017 17:41:18.81 Created new window in existing browser session.
+Oct 13, 2017 17:46:44.42 [23836:23875:1013/174644.424822:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:46:44.75 Created new window in existing browser session.
+Oct 13, 2017 17:48:59.93 Created new window in existing browser session.
+Oct 13, 2017 17:55:07.90 [24302:24341:1013/175507.859317:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:55:07.93 Created new window in existing browser session.
+Oct 13, 2017 17:56:45.32 [24526:24565:1013/175645.325664:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:56:45.69 Created new window in existing browser session.
+Oct 13, 2017 17:59:13.79 [24776:24816:1013/175913.794903:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 17:59:14.22 Created new window in existing browser session.
+Oct 13, 2017 18:02:16.92 Created new window in existing browser session.
+Oct 13, 2017 18:03:42.62 [25201:25240:1013/180342.620115:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 18:03:42.74 Created new window in existing browser session.
+Oct 13, 2017 18:07:34.95 Created new window in existing browser session.
+Oct 13, 2017 18:12:59.83 Created new window in existing browser session.
+Oct 13, 2017 18:14:38.50 [25954:25993:1013/181438.502636:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 13, 2017 18:14:38.85 Created new window in existing browser session.
+Oct 13, 2017 18:15:26.12 [8521:8521:1013/181525.535040:ERROR:CONSOLE(145)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('http://localhost:8080') does not match the recipient window's origin ('https://www.google.co.in').", source: chrome-search://most-visited/single.js (145)
+
+Oct 14, 2017 09:36:58.15 NEW SESSION
+Oct 14, 2017 09:36:58.15 [4612:4653:1014/093658.154696:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 14, 2017 09:36:58.29 Created new window in existing browser session.
+Oct 14, 2017 09:37:05.11 [4704:4743:1014/093705.114077:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 14, 2017 09:37:05.21 Created new window in existing browser session.
+Oct 14, 2017 09:44:53.58 [5182:5222:1014/094453.583832:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 14, 2017 09:44:53.64 Created new window in existing browser session.
+Oct 14, 2017 09:47:51.45 [5435:5475:1014/094751.450292:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 14, 2017 09:47:51.56 Created new window in existing browser session.
+Oct 14, 2017 11:01:29.10 [5978:6018:1014/110129.104926:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 14, 2017 11:01:29.21 Created new window in existing browser session.

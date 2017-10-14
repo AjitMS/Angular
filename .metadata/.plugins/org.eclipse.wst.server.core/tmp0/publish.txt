@@ -1,6 +1,4 @@
 #Tomcat publish data
-#Fri Oct 13 16:59:48 IST 2017
-org.eclipse.jst.jee.server\:ToDoList=/home/bridgelabz3/ajit/Server/wtpwebapps/ToDoList
-org.eclipse.jst.jee.server\:ServletJspdemo=/home/bridgelabz3/ajit/Server/wtpwebapps/ServletJspdemo
-org.eclipse.jst.jee.server\:LibraryManagementSystem=/home/bridgelabz3/ajit/Server/wtpwebapps/LibraryManagementSystem
+#Sat Oct 14 11:01:21 IST 2017
+org.eclipse.jst.jee.server\:ToDo=/home/bridgelabz3/ajit/Server/wtpwebapps/ToDo
 org.eclipse.jst.jee.server\:angulardemo=/home/bridgelabz3/ajit/Server/wtpwebapps/angulardemo
